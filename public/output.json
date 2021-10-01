@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "name": "Joe Biden",
+        "age": 78,
+        "country": "USA",
+        "email": "joebiden@yahoo.com",
+        "salary": 490,
+        "img": "https://static.toiimg.com/thumb/msid-86575043,imgsize-48228,width-400,resizemode-4/86575043.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Vladimir Putin",
+        "age": 77,
+        "country": "Russia",
+        "email": "vladirmirputin@yahoo.com",
+        "salary": 410,
+        "img": "https://cdn.wionews.com/sites/default/files/2018/09/11/47461-Untitled%2520design%2520%25288%2529_13.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Donald Trump",
+        "age": 72,
+        "country": "USA",
+        "email": "donaldtrump@yahoo.com",
+        "salary": 390,
+        "img": "https://cdn.wionews.com/sites/default/files/2018/09/12/47455-Untitled%2520design%2520%25282%2529_20.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Xi Jingping",
+        "age": 49,
+        "country": "China",
+        "email": "xi@gmail.com",
+        "salary": 290,
+        "img": "https://ddnews.gov.in/sites/default/files/jingping_1.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Angela Merkel",
+        "age": 58,
+        "country": "Germany",
+        "email": "angelamerkel@yahoo.com",
+        "salary": 890,
+        "img": "https://cdn.wionews.com/sites/default/files/2018/09/12/47463-Untitled%2520design_28.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Halimah",
+        "age": 35,
+        "country": "Singapore",
+        "email": "halimah@yahoo.com",
+        "salary": 590,
+        "img": "https://ichef.bbci.co.uk/news/976/cpsprodpb/EF7C/production/_97780316_98697ae1-cc87-425f-9ef2-b7c9c5451313.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Macron",
+        "age": 61,
+        "country": "Franch",
+        "email": "macron@email.com",
+        "salary": 349,
+        "img": "https://www.thestatesman.com/wp-content/uploads/2021/09/Islamic.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Borish Johnshon",
+        "age": 39,
+        "country": "United Kingdom",
+        "email": "borish@gmail.com",
+        "salary": 350,
+        "img": "https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2020/12/06/Pictures/london-photo-britain-news-conference-johnson-attends_e7c4e304-3797-11eb-a00e-2cd7664e001b.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Steinmeier",
+        "age": 54,
+        "country": "Germany",
+        "email": "steinmeir@gmail.com",
+        "salary": 310,
+        "img": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/UU452SHSCFISRDZX7NA2ZDMXHI.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Kim Jong-un",
+        "age": 37,
+        "country": " North Korean",
+        "email": "kimjongun@yahoo.com",
+        "salary": 290,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/5/54/Kim_Jong-un_%282019-04-25%29_04.jpg"
+    },
+    {
+        "id": 11,
+        "name": "John Smith",
+        "age": 83,
+        "country": "Chili",
+        "email": "smith@gmail.com",
+        "salary": 440,
+        "img": "https://cdnuploads.aa.com.tr/uploads/Contents/2020/01/14/thumbs_b_c_a64ef1dd6bdebad6e393057a6ea5d35c.jpg?v=204449"
+    },
+    {
+        "id": 12,
+        "name": "Mohammed bin Salman Al Saud",
+        "age": 50,
+        "country": "Saudi Arabia",
+        "email": "Mohammedbin@yahoo.com",
+        "salary": 490,
+        "img": "https://cdn.wionews.com/sites/default/files/2018/09/12/47458-Untitled%2520design%2520%25285%2529_22.jpg"
+    }
+]

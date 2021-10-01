@@ -1,0 +1,22 @@
+.header {
+    text-align: center;
+    background-color: darkslategray;
+    box-shadow: 10px 10px 30px rgb(224, 221, 221);
+    padding: 10px 0px;
+    margin: 0px 10px 60px 10px;
+    border-radius: 5px;
+}
+
+.header h1 {
+    color: limegreen;
+    text-transform: uppercase;
+
+}
+
+.header h3 {
+    color: rgb(243, 245, 243);
+}
+
+.header .budget {
+    color: black;
+}
