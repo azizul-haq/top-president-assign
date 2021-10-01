@@ -1,9 +1,9 @@
+Famous President Bio 
+
 Live site: https://distracted-mclean-22af1e.netlify.app/
 
+This website made for the details of the top famous leader in the world.  
 
-
-
-This website made for the details of the top famous leader in the world.                                                                                                           
 A president is a leader of an organization, company, community 
 
 The powers of the president vary widely across organizations.
