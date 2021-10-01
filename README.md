@@ -1,8 +1,13 @@
-Live site https://top-president-app-masum691.netlify.app
+Live site: https://distracted-mclean-22af1e.netlify.app/
 
-This website is made for the details of the top famous leader in the world.
-A president is a leader of an organization, company, community
+
+
+
+This website made for the details of the top famous leader in the world.                                                                                                           
+A president is a leader of an organization, company, community 
+
 The powers of the president vary widely across organizations.
+
 This website has the names, ages, countries, emails, celery of the top presidents.
 
 
